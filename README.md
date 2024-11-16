@@ -3,6 +3,7 @@ To Do App
 Uma aplicação simples de lista de tarefas (To Do) desenvolvida com HTML, JavaScript e estilizada com Tailwind CSS, permitindo a criação, edição, exclusão e marcação de tarefas como concluídas, com persistência no navegador usando localStorage.
 
 
+
 🎯 Funcionalidades
 
 Adicionar Tarefa: Crie novas tarefas com facilidade.
@@ -16,6 +17,7 @@ Marcar como Concluída: Aplique um estilo diferenciado às tarefas concluídas.
 Persistência de Dados: As tarefas são armazenadas no localStorage, garantindo que elas permaneçam salvas mesmo após o recarregamento da página.
 
 
+
 🚀 Tecnologias Utilizadas
 
 HTML5: Estrutura da aplicação.
@@ -25,6 +27,7 @@ Tailwind CSS: Estilização moderna e responsiva.
 JavaScript: Funcionalidades da aplicação.
 
 LocalStorage: Persistência dos dados.
+
 
 
 📦 Como Executar o Projeto
@@ -46,6 +49,7 @@ Copiar código
 cd todo-app
 
 Abra o arquivo index.html no seu navegador.
+
 
 
 🛠️ Como Personalizar
@@ -87,6 +91,7 @@ Copiar código
 git push origin feature/sua-feature
 
 Abra um Pull Request.
+
 
 
 📝 Licença
