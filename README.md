@@ -60,40 +60,6 @@ Para adicionar novas funcionalidades, edite o arquivo app.js.
 
 
 
-🤝 Contribuições
-
-Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
-
-Faça um fork do projeto.
-
-Crie uma nova branch:
-
-bash
-
-Copiar código
-
-git checkout -b feature/sua-feature
-
-Faça as alterações e envie um commit:
-
-bash
-
-Copiar código
-
-git commit -m "Adicionei uma nova feature"
-
-Envie para o seu fork:
-
-bash
-
-Copiar código
-
-git push origin feature/sua-feature
-
-Abra um Pull Request.
-
-
-
 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo. 😊
